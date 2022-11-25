@@ -1,3 +1,4 @@
 File 1 first commit
 File 1 update second commit
-File 1 third commit
+File 1 third commit check difference
+File 1 4th commit lock master branch
